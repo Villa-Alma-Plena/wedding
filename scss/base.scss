@@ -140,7 +140,7 @@ p.info-geolocation {
 
 /* -------------------  Ricevimento */
 .reception {
-  background: url('../img/foto-tre.png') no-repeat center center;
+  background: url('../img/villa.jpeg') no-repeat center center;
   background-size: cover;
 }
 
@@ -182,5 +182,11 @@ p.info-geolocation {
   } */
 }
 
-
+.fa.fa-instagram {
+  color: transparent;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background-clip: text;
+  -webkit-background-clip: text;
+}
 /* SEZIONE TEST */
