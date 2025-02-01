@@ -59,6 +59,7 @@ p.info-geolocation {
 .primary {
     background: url("../img/foto-uno.jpg") no-repeat center center;
     background-size: cover;
+	background-position: 0 0 center;
 }
 
 .info-primary {
@@ -112,7 +113,7 @@ p.info-geolocation {
 
 /* -------------------  Ricevimento */
 .reception {
-    background: url("../img/foto-tre.png") no-repeat center center;
+    background: url("../img/villa.jpeg") no-repeat center center;
     background-size: cover;
 }
 
@@ -252,3 +253,11 @@ a::after {
       opacity: 0;
     }
   }*/
+
+.fa.fa-instagram {
+  color: transparent;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background-clip: text;
+  -webkit-background-clip: text;
+}
