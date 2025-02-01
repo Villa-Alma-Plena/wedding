@@ -189,4 +189,15 @@ p.info-geolocation {
   background-clip: text;
   -webkit-background-clip: text;
 }
+
+.footer-list-item {
+      list-style-type: none;
+      display: inline-block;
+    }
+
+    .footer-list {
+      padding: 50px 0;
+      background: whitw;
+      text-align: center;
+    }
 /* SEZIONE TEST */
