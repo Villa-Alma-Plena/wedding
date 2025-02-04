@@ -43,7 +43,7 @@ h2.section-title {
 }
 
 p.info-location {
-    font-size: 2.5rem;
+    font-size: 2rem;
     text-align: center;
     line-height: 40px;
 	color: black;
@@ -106,13 +106,13 @@ p.info-geolocation {
 
 /* -------------------  Chiesa */
 .church {
-    background: url("../img/foto-due.jpeg") no-repeat center center;
+    background: url("../img/chiesa.jpg") no-repeat center center;
     background-size: cover;
 }
 
 /* -------------------  Ricevimento */
 .reception {
-    background: url("../img/villa.jpeg") no-repeat center center;
+    background: url("../img/villa-3.jpg") no-repeat center center;
     background-size: cover;
 }
 
